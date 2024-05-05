@@ -1,0 +1,6 @@
+[sudo] password for ava: 
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+E: Unable to locate package libgl1-mesa-glx
+E: Unable to locate package libegl1-mesa
